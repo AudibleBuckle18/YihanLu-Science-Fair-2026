@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['cartridge', 'gear', 'motor', 'regulator', 'spring']
+
+roboflow:
+  workspace: yihans-workspace-sdybo
+  project: my-first-project-zkvz4
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/yihans-workspace-sdybo/my-first-project-zkvz4/2
