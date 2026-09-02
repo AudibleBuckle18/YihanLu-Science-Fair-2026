@@ -1,7 +1,0 @@
-path: /Users/yihanlu/Desktop/scifairvision/Data
-train: train/images
-val: train/images
-test: train/images
-
-nc: 5
-names: ['cartridge', 'gear', 'motor', 'regulator', 'spring']
